@@ -1,0 +1,16 @@
+PODS:
+  - MarqueeLabel/Swift (3.1.6)
+
+DEPENDENCIES:
+  - MarqueeLabel/Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MarqueeLabel
+
+SPEC CHECKSUMS:
+  MarqueeLabel: 0c41f08ef5773e29c0f71064a8fa788a2fd8b365
+
+PODFILE CHECKSUM: 656e9e8e7159a974ba5ea087e0d0de93a3f5e746
+
+COCOAPODS: 1.5.3
